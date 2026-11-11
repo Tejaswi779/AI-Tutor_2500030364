@@ -1,3 +1,5 @@
 project.txt
 # *.txt (ignores all the .txt files)
-.env
+
+.env 
+# did not push this as it contains sensitive information like API keys and database credentials.
